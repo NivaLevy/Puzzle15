@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OOP hw3</string>
+    <string name="cmdGenerate">New Game</string>
+</resources>
